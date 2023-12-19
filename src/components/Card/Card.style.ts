@@ -22,6 +22,14 @@ export const styles = StyleSheet.create({
         color:"#000",
         fontSize:18,
     },
+    inputShortBox:{
+        flex:1,
+        width:100,
+        paddingVertical:10,
+        marginBottom:20,
+        borderBottomColor:"#000",
+        borderBottomWidth:1,
+    },
     inputBox:{
         flex:1,
         width:'100%',
